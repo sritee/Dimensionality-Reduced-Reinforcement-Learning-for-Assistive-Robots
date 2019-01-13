@@ -1,4 +1,4 @@
-## README
+                                                       # README
 
 This repository reproduces [1]'s results. This algorithm was proposed for increasing convergence speed of Reinforcement Learning involving high dimensional state spaces. We reproduce the paper's results,specifically the one on MountainCar3D environment -- a higher dimensional version of the original MountainCar. 
 
